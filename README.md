@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtayyab556
-- 👀 I’m interested in becoming a Software Developer
+- 👀 I’m interested in becoming a Frontend Software Developer
 - 🌱 I’m currently learning Software Development at SAIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
